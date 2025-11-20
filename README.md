@@ -1,8 +1,3 @@
----
-
-# 📘 **README.md (English Version — Clean & Professional)**
-
-````md
 # Vue 3 + Vite + TypeScript + SCSS Starter
 
 A clean and modern starter template built with **Vue 3**, **Vite**, **TypeScript**, **SCSS**, and **PostCSS**.  
