@@ -1,7 +1,3 @@
-# PPT
-
-https://docs.google.com/presentation/d/14wdn9upr1KFmDzzVH8xr5WipstzN8aJ1EzrQ6s7u7ds/edit?usp=sharing
-
 # Vue 3 + Vite + TypeScript + SCSS Starter
 
 A clean and modern starter template built with **Vue 3**, **Vite**, **TypeScript**, **SCSS**, and **PostCSS**.  
